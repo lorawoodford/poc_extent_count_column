@@ -1,0 +1,6 @@
+<%
+  # `record` is the resolved Solr index hash for this row, it's the same source the
+  # built-in _extents_cell.html.erb reads from -- see frontend/app/views/search/_extents_cell.html.erb
+  count = (record['extents'] || []).length
+%>
+<%= count %> extent statement<%= count == 1 ? '' : 's' %>
