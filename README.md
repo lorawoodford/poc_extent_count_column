@@ -46,4 +46,9 @@ AppConfig[:plugins] << "poc_extent_count_column"
 
 ## Screenshots
 
+Selecting the new custom column on the Resources Browse Columns dropdown on Repository Preferences: 
+<img width="994" height="602" alt="Screenshot 2026-07-22 at 2 07 14 PM" src="https://github.com/user-attachments/assets/5ec3cdd7-0a44-44df-82c8-4870d2e74399" />
+
+Viewing the new "Extent Count" column on Resource Browse screen:
+<img width="1270" height="508" alt="Screenshot 2026-07-22 at 2 07 30 PM" src="https://github.com/user-attachments/assets/9d61dab2-ab66-4138-baab-2446272e1a0d" />
 
